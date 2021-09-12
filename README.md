@@ -2,12 +2,11 @@
 
 ![WIP](https://img.shields.io/badge/status-wip-red.svg)
 [![GoDoc](https://godoc.org/github.com/rossim2i2/zet-go?status.svg)](https://godoc.org/github.com/rossim2i2/zet-go)
-[![Go Report Card](https://goreportcard.com/badge/github.com/rossim2i2/zet-go)](https://goreportcard.com/report/github.com/rossim2i2/zet-go)
-[![Coverage](https://gocover.io/_badge/github.com/rossim2i2/zet-go)](https://gocover.io/github.com/rossim2i2/zet-go)
 
 This is my attempt to port Rob's (rwxrob) `zet` command to go. 
 
 <https://github.com/rwxrob/cmd-zet>
+
 <https://youtube.com/rwxrob>
 
 ## Reasons for Binary Port
